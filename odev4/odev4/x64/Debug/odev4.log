@@ -1,0 +1,4 @@
+﻿  odev4.cpp
+C:\Users\user\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\akinsoft\odev4\odev4\odev4.cpp(31,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\akinsoft\odev4\odev4\odev4.cpp(68,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  odev4.vcxproj -> C:\Users\user\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\akinsoft\odev4\x64\Debug\odev4.exe

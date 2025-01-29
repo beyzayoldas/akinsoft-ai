@@ -1,0 +1,4 @@
+﻿  odev2.cpp
+C:\Users\user\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\akinsoft\odev2\odev2\odev2.cpp(30,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\akinsoft\odev2\odev2\odev2.cpp(38,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  odev2.vcxproj -> C:\Users\user\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\akinsoft\odev2\x64\Debug\odev2.exe
